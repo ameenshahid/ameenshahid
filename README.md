@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameenshahid
+- 👋 Hi, I’m Aminuddin Mohammad
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Azure Projects
